@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kevinmcaleer
+- 👀 I design and build robots, make videos about them on YouTube, bring them to life with code and have a whole load of fun along the way
+- 🌱 I’m currently learning Python and MicroPython
+- 💞️ I’m looking to collaborate on anything to do with Robotics, though my time and focus is limited (Hobby time)
+- 📫 How to reach me - via our Discord server, sign up here: https://www.kevsrobots.com/discord
