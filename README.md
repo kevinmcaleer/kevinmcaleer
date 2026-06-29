@@ -8,7 +8,7 @@ My Repos:
 *262 repositories — sorted by most recently updated*
 
 ---
-* - __[Snakie]](https://github.com/kevinmcaleer/snakie)__
+* - __[Snakie](https://github.com/kevinmcaleer/snakie)__
 * 🤖 __[Dagney](https://github.com/kevinmcaleer/dagney)__
 * 🌐 __[kevsrobots.com](https://github.com/kevinmcaleer/kevsrobots.com)__
 * 🖥️ __[ClusteredPi](https://github.com/kevinmcaleer/ClusteredPi)__
