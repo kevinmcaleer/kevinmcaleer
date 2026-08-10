@@ -8,6 +8,7 @@ My Repos:
 *262 repositories — sorted by most recently updated*
 
 ---
+* __[RedWorks](https://github.com/kevinmcaleer/redworks)__
 * 🐍 __[Snakie.org](https://github.com/kevinmcaleer/snakie.org)__
 * 🐍 __[Snakie](https://github.com/kevinmcaleer/snakie)__
 * 🤖 __[Dagney](https://github.com/kevinmcaleer/dagney)__
